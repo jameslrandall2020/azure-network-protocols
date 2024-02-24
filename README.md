@@ -28,7 +28,7 @@ In this tutorial, we will share out resources over the network by creating file 
 
 - Create sample file share folders with permissions
 - Access file shares as a normal users
-- Create an "ACCOUNTANTS" Sccurity Group, assign permissions, and test access
+- Create an "ACCOUNTANTS" Security Group, assign permissions, and test access
 
 <h2>Actions and Observations</h2>
 
